@@ -69,10 +69,10 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
     url = "https://github.com/ruanbekker/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
+    name = "Slack"
+    icon = "fab fa-slack"
     weight = 2
-    url = "https://gitlab.com/rbekker87/"
+    url = "http://linux-hackers-slack.herokuapp.com/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
