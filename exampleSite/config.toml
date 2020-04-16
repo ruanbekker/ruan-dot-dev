@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "johndoe"
+title = "Ruan Bekker"
 
 theme = "hugo-coder"
 
@@ -16,13 +16,13 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    author = "Ruan Bekker"
+    description = "Ruan Bekker's personal website"
+    keywords = "blog,devops,personal"
+    info = "DevOps Engineer and Open Source Enthusiast"
     avatarurl = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    #gravatar = "ruan.ru.bekker@gmail.com"
+    footercontent = "Work Hard. Stay Humble. Be Kind."
 
     dateformat = "January 2, 2006"
 
@@ -32,7 +32,7 @@ disqusShortname = "yourdiscussshortname"
     since = 2019
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    commit = "https://github.com/ruanbekker/ruan-dot-dev/tree/"
 
     rtl = false
 
@@ -67,27 +67,27 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/ruanbekker/"
 [[params.social]]
     name = "Gitlab"
     icon = "fab fa-gitlab"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://gitlab.com/rbekker87/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/ruanbekker/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/ruanbekker/"
 [[params.social]]
     name = "Medium"
     icon = "fab fa-medium"
     weight = 5
-    url = "https://medium.com/@johndoe"
+    url = "https://medium.com/@ruanbekker"
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss"
@@ -126,14 +126,14 @@ disqusShortname = "yourdiscussshortname"
 
     [languages.pt-br]
         languagename = "Português"
-        title = "João Ninguém"
+        title = "Ruan Bekker"
 
         [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
-            description = "Sítio pessoal de João Ninguém"
+            author = "Ruan Bekker"
+            info = "DevOps"
+            description = "Sítio pessoal de Ruan Bekker"
             keywords = "blog,desenvolvedor,pessoal"
-            footercontent = "Coloque algum texto aqui."
+            footercontent = "."
 
         [languages.pt-br.menu]
 
