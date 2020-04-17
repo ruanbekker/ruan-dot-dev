@@ -92,7 +92,7 @@ disqusShortname = "yourdiscussshortname"
     name = "RSS"
     icon = "fas fa-rss"
     weight = 6
-    url = "https://myhugosite.com/index.xml"
+    url = "https://ruan-dot-dev-81d62.netlify.app/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
 
