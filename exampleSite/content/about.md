@@ -1,29 +1,61 @@
 +++
-title = "About Hugo"
+title = "About Me"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+Hello! My name is Ruan Bekker, I currently work as a Snr. DevOps Engineer for [Mama Money](https://www.mamamoney.co.za)
 
+## Me
 
-It makes use of a variety of open source projects including:
+I have a passion for problem solving, building things and making businesses succeed. I’m madly curious by heart, so I'm very hungry for knowledge and you will always find my trying and testing out new things to stay ahead of the game.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+## My Background
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+I have about 12 years of experience in the IT/Engineering Industry that ranges from Linux Systems Administration, DevOps, BigData and Systems Development Engineering.
 
-## Setup
+## Stuff I Work On
 
-Some fun facts about [Hugo](http://gohugo.io/):
+I primarily work with the following:
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+* AWS Cloud: 
+  * Compute: EC2, Lambda, AutoScaling
+  * Databases: RDS, DynamoDB
+  * Storage: S3, Glacier, EFS
+  * Networking: API Gateway, VPC, Route53
+  * CICD: CodePipeline, CodeBuild, CodeDeploy
+  * Analytics: EMR, Kinesis, Elasticsearch, DataPipeline
+  * Security: IAM, Secrets Manager, ACM
+  * App Integration: SNS, SQS
+  * Containers: ECS, EKS, ECR
+* Scripting:
+  * Bash
+  * Python
+* Linux:
+  * Deployment, System Development, Administering
+* Python:
+  * Scripting
+  * Lambda Functions
+  * Flask for Basic Web Based Applications
+  * Basic to Intermediate Python Apps (not a developer, but know my way around)
+* Automation
+  * CI/CD, Jenkins, Ansible, Terraform, DroneIO, Concourse, Bash
+* DevOps
+* Containers
+  * Use docker for almost every container runtime environment
+  * Docker Swarm, Kubernetes and ECS for Orchestrators
+* Solutions Architecture
+* Open Source
+* Knowledge Sharing
+* Monitoring and Metrics
+* Systems Adminstration 
+* Making Customers happy is a big thing for me
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+## Tech Blogging
+
+You will find me on [twitter](https://twitter.com/ruanbekker), sharing most of my blogposts that I write about tech topics on [blog.ruanbekker.com](https://blog.ruanbekker.com), [sysadmins.co.za](https://sysadmins.co.za) and for raspberry pi based projects on [blog.pistack.co.za](https://blog.pistack.co.za) and I share most of my code on my [githhub repository].
+
+## Thanks
+
+I always love feedback and hearing from the community, so if you want to chat, need some help on your projects, feel free to reach out to me on [twitter](https://twitter.com/ruanbekker) or [slack](http://linux-hackers-slack.herokuapp.com)
 
 Thanks for reading!
