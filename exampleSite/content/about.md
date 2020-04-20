@@ -3,7 +3,7 @@ title = "About Me"
 slug = "about"
 +++
 
-Hello! My name is Ruan Bekker, I currently work as a Snr. DevOps Engineer for [Mama Money](https://www.mamamoney.co.za)
+Hello! My name is Ruan Bekker, I currently work as a Snr. DevOps Engineer for **[Mama Money](https://www.mamamoney.co.za)**
 
 ## Me
 
@@ -52,7 +52,7 @@ I primarily work with the following:
 
 ## Tech Blogging
 
-You will find me on [twitter](https://twitter.com/ruanbekker), sharing most of my blogposts that I write about tech topics on [blog.ruanbekker.com](https://blog.ruanbekker.com), [sysadmins.co.za](https://sysadmins.co.za) and for raspberry pi based projects on [blog.pistack.co.za](https://blog.pistack.co.za) and I share most of my code on my [githhub repository].
+You will find me on [twitter](https://twitter.com/ruanbekker), sharing most of my blogposts that I write about tech topics on [blog.ruanbekker.com](https://blog.ruanbekker.com), [sysadmins.co.za](https://sysadmins.co.za) and for raspberry pi based projects on [blog.pistack.co.za](https://blog.pistack.co.za) and I share most of my code on my [githhub repository](https://github.com/ruanbekker).
 
 ## Thanks
 
