@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://ruan.dev"
 title = "Ruan Bekker"
 
 theme = "hugo-coder"
@@ -17,7 +17,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Ruan Bekker"
-    description = "Ruan Bekker's personal website"
+    description = "Ruan Bekker's Portfolio Website"
     keywords = "blog,devops,personal"
     info = "DevOps Engineer and Open Source Enthusiast"
     #avatarurl = "images/avatar.jpg"
@@ -41,7 +41,7 @@ disqusShortname = "yourdiscussshortname"
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorscheme = "light"
+    colorscheme = "auto"
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -84,10 +84,10 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
     url = "https://www.linkedin.com/in/ruanbekker/"
 [[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
+    name = "Email"
+    icon = "fab fa-at"
     weight = 5
-    url = "https://medium.com/@ruanbekker"
+    url = "mailto:ruan@ruanbekker.com"
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss"
