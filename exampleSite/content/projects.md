@@ -32,4 +32,4 @@ A couple of projects that I keep myself busy with
 
 I help out answering tech related questions on mediums such as AWS and DevOps user groups, but most of the time I have a dedicated slack channel where people can reach out to me:
 
-* :computer: [join-my-slack](https://linux-hackers-slack.herokuapp.com)
+* [join-my-slack](https://linux-hackers-slack.herokuapp.com)
