@@ -85,7 +85,7 @@ disqusShortname = "yourdiscussshortname"
     url = "https://www.linkedin.com/in/ruanbekker/"
 [[params.social]]
     name = "Email"
-    icon = "fab fa-at"
+    icon = "fas fa-at"
     weight = 5
     url = "mailto:ruan@ruanbekker.com"
 [[params.social]]
