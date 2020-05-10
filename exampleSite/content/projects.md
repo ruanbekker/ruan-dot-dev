@@ -18,6 +18,7 @@ A couple of projects that I keep myself busy with
 
 ## Projects
 
+* [k3m](https://github.com/ruanbekker/k3m): Run k3s distribution of kubernetes on multipass
 * [bekkerstacks](https://github.com/bekkerstacks): Ready to Deploy Docker Swarm Stacks
 * [pistacks](https://github.com/pistacks?tab=repositories): Ready to Deploy Docker Swarm Stacks for ARM
 * [golang-aws-secret-store](https://github.com/ruanbekker/golang-aws-secret-store): Secret Store on AWS with Golang, S3, KMS
