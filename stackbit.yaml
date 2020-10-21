@@ -120,7 +120,7 @@ models:
           - type: language_config
             name: en
           - type: language_config
-            name: pt-br
+            name: af
       - type: object
         name: taxonomies
         fields:

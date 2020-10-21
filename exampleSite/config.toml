@@ -54,9 +54,9 @@ disqusShortname = "yourdiscussshortname"
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 [params.fathomAnalytics]
-    siteID = "ABCDE"
+    siteID = "GMQEJ"
     # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
-    serverURL = "analytics.example.com"
+    serverURL = "ruan-dot-dev.analytics.ruan.dev"
 
 [taxonomies]
   category = "categories"
@@ -92,7 +92,7 @@ disqusShortname = "yourdiscussshortname"
     name = "RSS"
     icon = "fas fa-rss"
     weight = 6
-    url = "https://ruan-dot-dev-81d62.netlify.app/index.xml"
+    url = "https://ruan.dev/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
 
@@ -119,40 +119,50 @@ disqusShortname = "yourdiscussshortname"
             url = "projects/"
 
             [[languages.en.menu.main]]
+            name = "Store"
+            weight = 4
+            url = "store/"
+
+            [[languages.en.menu.main]]
             name = "Contact me"
             weight = 5
             url = "contact/"
 
 
-    [languages.pt-br]
-        languagename = "Português"
+    [languages.af]
+        languagename = "Afrikaans"
         title = "Ruan Bekker"
 
-        [languages.pt-br.params]
+        [languages.af.params]
             author = "Ruan Bekker"
             info = "DevOps"
-            description = "Sítio pessoal de Ruan Bekker"
-            keywords = "blog,desenvolvedor,pessoal"
+            description = "DevOps Ingenieur"
+            keywords = "blog,tegnologie,devops,persoonlik"
             footercontent = "."
 
-        [languages.pt-br.menu]
+        [languages.af.menu]
 
-            [[languages.pt-br.menu.main]]
-            name = "Sobre"
+            [[languages.af.menu.main]]
+            name = "About"
             weight = 1
             url = "about/"
 
-            [[languages.pt-br.menu.main]]
+            [[languages.af.menu.main]]
             name = "Blog"
             weight = 2
             url = "posts/"
 
-            [[languages.pt-br.menu.main]]
-            name = "Projetos"
+            [[languages.af.menu.main]]
+            name = "Projekte"
             weight = 3
             url = "projects/"
 
-            [[languages.pt-br.menu.main]]
-            name = "Contato"
+            [[languages.af.menu.main]]
+            name = "Winkel"
+            weight = 4
+            url = "store/"
+
+            [[languages.af.menu.main]]
+            name = "Kontak"
             weight = 5
             url = "contact/"
