@@ -1,6 +1,0 @@
-+++
-title = "Store"
-slug = "store"
-+++
-
-.
