@@ -7,4 +7,4 @@ slug = "store"
 
 I have the following products available:
 
-- [SFTP Cheatsheet](store/sftp-cheatsheet)
+* [SFTP Cheatsheet](store/sftp-cheatsheet)
