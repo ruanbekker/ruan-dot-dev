@@ -1,13 +1,6 @@
 +++
 title = "SFTP Cheatsheet"
 slug = "sftp-cheatsheet"
-tags = [
-    "sftp",
-    "cheatsheets"
-]
-categories = [
-    "store"
-]
 +++
 
 My SFTP Cheatsheet:
