@@ -95,7 +95,11 @@ disqusShortname = "yourdiscussshortname"
     url = "https://ruan.dev/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
-
+[[params.social]]
+    name = "Buy me a Coffee"
+    icon = "fab fa-coffee-togo"
+    weight = 7
+    url = "https://www.buymeacoffee.com/ruanbekker"
 
 [languages]
     [languages.en]
