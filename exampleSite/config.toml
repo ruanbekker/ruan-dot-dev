@@ -97,7 +97,7 @@ disqusShortname = "yourdiscussshortname"
     type = "application/rss+xml"
 [[params.social]]
     name = "Buy me a Coffee"
-    icon = "fab fa-coffee-togo"
+    icon = "fab fa-coffee"
     weight = 7
     url = "https://www.buymeacoffee.com/ruanbekker"
 
