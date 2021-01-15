@@ -20,6 +20,7 @@ A couple of projects that I keep myself busy with
 
 * [k3m](https://github.com/ruanbekker/k3m): Run k3s distribution of kubernetes on multipass
 * [bekkerstacks](https://github.com/bekkerstacks): Ready to Deploy Docker Swarm Stacks
+* [bekkerlabs](https://github.com/ruanbekker/docker-vscode-server): Labs on VS Code Server
 * [pistacks](https://github.com/pistacks?tab=repositories): Ready to Deploy Docker Swarm Stacks for ARM
 * [golang-aws-secret-store](https://github.com/ruanbekker/golang-aws-secret-store): Secret Store on AWS with Golang, S3, KMS
 * [elasticsearch-hands-on-tutorial](https://github.com/ruanbekker/elasticsearch-demo): Hands-on Elasticsearch Tutorial
