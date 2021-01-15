@@ -23,6 +23,7 @@ A couple of projects that I keep myself busy with
 * [pistacks](https://github.com/pistacks?tab=repositories): Ready to Deploy Docker Swarm Stacks for ARM
 * [golang-aws-secret-store](https://github.com/ruanbekker/golang-aws-secret-store): Secret Store on AWS with Golang, S3, KMS
 * [elasticsearch-hands-on-tutorial](https://github.com/ruanbekker/elasticsearch-demo): Hands-on Elasticsearch Tutorial
+* [elasticsearch-searchengine-php](https://gitlab.com/rbekker87/searchengine-php-es)
 * [kubernetes-hands-on-tutorial](https://github.com/ruanbekker/kubernetes-hands-on-demo): Hands-on Kubernetes Tutorial
 * [k3s-on-lxd](https://github.com/ruanbekker/k3s-on-lxd): Deploy a K3S Kubernetes Cluster on LXD
 * [flask-reminders](https://github.com/ruanbekker/flask-reminders): Bookmarks WebApp on Python Flask, Elasticsearch and MongoDB
