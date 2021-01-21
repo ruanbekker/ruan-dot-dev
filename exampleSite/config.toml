@@ -122,13 +122,17 @@ disqusShortname = "yourdiscussshortname"
             weight = 3
             url = "projects/"
 
+            #[[languages.en.menu.main]]
+            #name = "Store"
+            #weight = 4
+            #url = "store/"
             [[languages.en.menu.main]]
-            name = "Store"
+            name = "Resume"
             weight = 4
-            url = "store/"
+            url = "resume/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "Contact"
             weight = 5
             url = "contact/"
 
