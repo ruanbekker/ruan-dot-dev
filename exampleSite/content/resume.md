@@ -36,8 +36,10 @@ As a Platform Engineer I had to migrate, automate, build and design infrastructu
 
 ### JUMO
 
-| Position    | Systems Development Engineer |
-| Duration    | March 2017 – February 2020 |
+| <!-- -->    | <!-- -->                            |
+|-------------|------------------------------------ |
+| Position    | Systems Development Engineer        |
+| Duration    | March 2017 – February 2020          |
 | Description | Design, Build, Scale, Automates JUMO’s Financial Services Platform on AWS.| 
 
 **Job Role:**
