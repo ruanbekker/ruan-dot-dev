@@ -12,7 +12,7 @@ I have a passion for problem solving, building things and making businesses succ
 | Company              | Position                     | Year           |
 | -------------------- | ---------------------------- | -------------- |
 | Mama Money           | Platform Engineer            | 2020 - Current |
-| JUMO  | Text         | Systems Development Engineer | 2017 - 2020    |
+| JUMO                 | Systems Development Engineer | 2017 - 2020    |
 | Amazon Web Services  | Big Data, Cloud Support      | 2015 - 2017    |
 | Amazon Web Services  | EC2, Cloud Support           | 2014 - 2015    |
 | Computicket          | Linux Sysadmin               | 2014 - 2014    |
@@ -24,6 +24,8 @@ I have a passion for problem solving, building things and making businesses succ
 
 ### Mama Money
 
+| <!-- -->    | <!-- -->                            |
+|-------------|------------------------------------ |
 | Position    | Platform Engineer (DevOps Engineer) |
 | Duration    | March 2020 – Present |
 | Description | Design, Build and Scale Mama Money’s Platform on AWS. Build dev tooling for developers and automation for our platform in order for features to be rolled out safer and faster. |
