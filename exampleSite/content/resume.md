@@ -65,3 +65,100 @@ As a SysDev Engineer I had to automate, build and design infrastructure for our 
 * Jenkins, Spinnaker, Grafana, Prometheus, Datadog
 * Planetarium (In-house developed PaaS)
 
+### Amazon Web Services (AWS)
+
+| <!-- -->    | <!-- -->                            |
+|-------------|------------------------------------ |
+| Position    | Cloud Support Engineer, BigData     |
+| Duration    | October 2014 – July 2017            |
+| Description | AWS Premium Support on EC2 Linux and Big Data Services on AWS.|
+
+### Computicket
+
+| <!-- -->    | <!-- -->                            |
+|-------------|------------------------------------ |
+| Position    | Linux Sysadmin                      |
+| Duration    | March 2014 – October 2014           |
+| Description | Manage Computicket's Infrastructure |
+
+### Automated Outsourcing Services (AOS)
+
+| <!-- -->    | <!-- -->                                |
+|-------------|---------------------------------------- |
+| Position    | Linux/Network Admin                     |
+| Duration    | October 2013 – February 2014            |
+| Description | Manage AOS's Infrastructure and Network |
+
+### Imperial Online
+
+| <!-- -->    | <!-- -->                                |
+|-------------|---------------------------------------- |
+| Position    | Snr. Linux Engineer, Internet Services  |
+| Duration    | December 2011 – October 2013            |
+| Description | Linux Services, Hosting, Solutions Providing, Installation, Maintenance, Server Support |
+
+### Imperial Online
+
+| <!-- -->    | <!-- -->                                |
+|-------------|---------------------------------------- |
+| Position    | Linux Engineer, Internet Services       |
+| Duration    | December 2009 – October 2011            |
+| Description | Linux Server Support                    |
+
+### Imperial Online
+
+| <!-- -->    | <!-- -->                                |
+|-------------|---------------------------------------- |
+| Position    | Desktop Support                         |
+| Duration    | March 2008 – September 2009             |
+| Description | Desktop Support                         |
+
+### Conexus
+
+| <!-- -->    | <!-- -->                                |
+|-------------|---------------------------------------- |
+| Position    | Helpdesk Agent (Call Centre for Imperial Online) |
+| Duration    | May 2007 – February 2008                |
+| Description | Helpdesk Agent for Imperial Online      |
+
+## Skills
+
+I primarily work with the following:
+
+* AWS Cloud:
+  * Compute: EC2, Lambda, AutoScaling
+  * Databases: RDS, DynamoDB
+  * Storage: S3, Glacier, EFS
+  * Networking: API Gateway, VPC, Route53
+  * CICD: CodePipeline, CodeBuild, CodeDeploy
+  * Analytics: EMR, Kinesis, Elasticsearch, DataPipeline
+  * Security: IAM, Secrets Manager, ACM
+  * App Integration: SNS, SQS
+  * Containers: ECS, EKS, ECR
+* Scripting:
+  * Bash
+  * Python
+* Linux:
+  * Deployment, System Development, Administering
+* Python:
+  * Scripting
+  * Lambda Functions
+  * Flask for Basic Web Based Applications
+  * Basic to Intermediate Python Apps (not a developer, but know my way around)
+* Automation
+  * CI/CD, Jenkins, Ansible, Terraform, DroneIO, Concourse, Bash
+* DevOps
+* Containers
+  * Use docker for almost every container runtime environment
+  * Docker Swarm, Kubernetes and ECS for Orchestrators
+* Solutions Architecture
+* Open Source
+* Knowledge Sharing
+* Monitoring and Metrics
+* Systems Adminstration
+* Making Customers happy is a big thing for me
+
+## Hobbies
+
+I am super curious and love learning new things, so you will find me on [twitter](https://twitter.com/ruanbekker), sharing most of my blogposts that I write about tech topics on [blog.ruanbekker.com](https://blog.ruanbekker.com), [sysadmins.co.za](https://sysadmins.co.za) and for raspberry pi based projects on [blog.pistack.co.za](https://blog.pistack.co.za) and I share most of my code on my [githhub repository](https://github.com/ruanbekker).
+
