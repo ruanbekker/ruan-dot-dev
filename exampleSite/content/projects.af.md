@@ -1,6 +1,6 @@
 +++
 title = "Projekte"
-slug = "projects"
+slug = "projekte"
 +++
 
 n Paar van my projekte wat ek myself besig mee hou:
