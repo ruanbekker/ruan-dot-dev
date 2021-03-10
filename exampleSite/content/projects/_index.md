@@ -21,7 +21,7 @@ I'm passionate about learning and distributing my knowledge:
 
 ## Projects
 
-* [k3m](https://github.com/ruanbekker/k3m): Run k3s distribution of kubernetes on multipass
+* [k3m](https://ruan.dev/projects/k3m/): Run k3s distribution of kubernetes on multipass
 * [bekkerstacks](https://github.com/bekkerstacks): Ready to Deploy Docker Swarm Stacks
 * [bekkerlabs](https://github.com/ruanbekker/docker-vscode-server): Labs on VS Code Server
 * [pistacks](https://github.com/pistacks?tab=repositories): Ready to Deploy Docker Swarm Stacks for ARM
