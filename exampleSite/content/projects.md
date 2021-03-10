@@ -7,6 +7,8 @@ A couple of projects that I keep myself busy with
 
 ## Blogging
 
+I'm passionate about learning and distributing my knowledge:
+
 * [blog.ruanbekker.com](https://blog.ruanbekker.com)
 * [sysadmins.co.za](https://sysadmins.co.za)
 * [blog.pistack.co.za](https://blog.pistack.co.za)
@@ -15,6 +17,7 @@ A couple of projects that I keep myself busy with
 * [civo.com/learn](https://www.civo.com/learn/setup-a-3-node-docker-swarm)
 * [devconnected.com](https://devconnected.com/author/ruan_bekker/)
 * [codewall.co.uk](https://www.codewall.co.uk/author/ruanbekker/)
+* [devdojo.com](https://devdojo.com/ruanbekker)
 
 ## Projects
 
