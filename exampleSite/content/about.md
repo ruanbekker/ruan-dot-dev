@@ -3,7 +3,7 @@ title = "About Me"
 slug = "about"
 +++
 
-Hello! My name is Ruan Bekker, I currently work as a Snr. DevOps Engineer for **[Mama Money](https://www.mamamoney.co.za)**
+Hello! My name is Ruan Bekker, I currently work as a DevOps Engineer for **[Techno Ponies](https://za.linkedin.com/company/technoponies)**
 
 ## Me
 
@@ -11,7 +11,7 @@ I have a passion for problem solving, building things and making businesses succ
 
 ## My Background
 
-I have about 12 years of experience in the IT/Engineering Industry that ranges from Linux Systems Administration, DevOps, BigData and Systems Development Engineering.
+I have about 12 years of experience in the IT/Engineering Industry that ranges from Linux Systems Administration, DevOps, BigData and Systems Development Engineering, mostly in the FinTech industry.
 
 ## Stuff I Work On
 
