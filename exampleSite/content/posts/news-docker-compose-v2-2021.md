@@ -1,7 +1,7 @@
 +++
 date = "2020-12-23"
-title = "Notes #02"
-slug = "notes-02"
+title = "News - Docker Compose v2 Announcement"
+slug = "news-docker-compose-v2-2021"
 tags = [
     "news",
     "docker",
