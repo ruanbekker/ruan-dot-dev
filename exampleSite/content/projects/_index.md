@@ -21,6 +21,8 @@ I'm passionate about learning and distributing my knowledge:
 
 ## Projects
 
+A list of some of my projects:
+
 * [k3m](https://ruan.dev/projects/k3m/): Run k3s distribution of kubernetes on multipass
 * [bekkerstacks](https://github.com/bekkerstacks): Ready to Deploy Docker Swarm Stacks
 * [bekkerlabs](https://github.com/ruanbekker/docker-vscode-server): Labs on VS Code Server
@@ -33,6 +35,10 @@ I'm passionate about learning and distributing my knowledge:
 * [flask-reminders](https://github.com/ruanbekker/flask-reminders): Bookmarks WebApp on Python Flask, Elasticsearch and MongoDB
 * [cheatsheets](https://github.com/ruanbekker/cheatsheets): My Cheatsheets Repository
 * [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace): Contributing to the Kubernetes Marketplace
+
+Most of my source code is shared on my github account:
+
+* [github.com/ruanbekker](https://github.com/ruanbekker)
 
 ## Community Support
 
