@@ -22,6 +22,7 @@ A blog post has been published on [containers.fan](https://containers.fan)
 I've run into a issue where maven based docker builds takes quite some time due to maven requires to pull down the dependencies during each build, and in the post below, I demonstrate how I use buildkit to cache the `~/.m2` directory inside the container to reduce builds from 220s to 8s.
 
 To read more, check out this post:
+
 - https://containers.fan/posts/speed-up-maven-docker-builds-with-cache/
 
 ## Thank You
