@@ -13,7 +13,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "sysadminsblog"
+#disqusShortname = "sysadminsblog"
 googleAnalytics = "UA-200848025-1"
 
 [params]
