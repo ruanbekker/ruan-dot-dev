@@ -1,6 +1,7 @@
 +++
 title = "Appreciation"
 slug = "appreciation"
+featured_image = "https://ruan.dev/images/new-post-ruan-dev.png"
 +++
 
 My twitter feed of things that keep me inspired.
