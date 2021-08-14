@@ -22,7 +22,7 @@ googleAnalytics = "UA-200848025-1"
     keywords = "blog,devops,personal"
     info = "DevOps Engineer and Open Source Enthusiast"
     #avatarurl = "images/avatar.jpg"
-    gravatar = "ruan.ru.bekker@gmail.com"
+    gravatar = "ruan@ruanbekker.com"
     footercontent = "Work Hard. Stay Humble. Be Kind."
 
     dateformat = "January 2, 2006"
@@ -127,15 +127,20 @@ googleAnalytics = "UA-200848025-1"
             name = "Resume"
             weight = 4
             url = "resume/"
+            
+            [[languages.en.menu.main]]
+            name = "Appreciation"
+            weight = 4
+            url = "appreciation/"
 
             [[languages.en.menu.main]]
             name = "Shop"
-            weight = 5
+            weight = 6
             url = "https://ko-fi.com/ruanbekker/shop"
 
             [[languages.en.menu.main]]
             name = "Contact"
-            weight = 6
+            weight = 7
             url = "contact/"
 
 
