@@ -11,7 +11,7 @@ I have a passion for problem solving, building things and making businesses succ
 
 | Company              | Position                     | Year           |
 | -------------------- | ---------------------------- | -------------- |
-| Mama Money           | Platform Engineer            | 2020 - Current |
+| Mama Money           | Platform Engineer            | 2020 - 2021    |
 | JUMO                 | Systems Development Engineer | 2017 - 2020    |
 | Amazon Web Services  | Big Data, Cloud Support      | 2015 - 2017    |
 | Amazon Web Services  | EC2, Cloud Support           | 2014 - 2015    |
