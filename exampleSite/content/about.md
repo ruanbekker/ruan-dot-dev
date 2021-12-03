@@ -3,7 +3,7 @@ title = "About Me"
 slug = "about"
 +++
 
-Hello! My name is Ruan Bekker, I currently work as a DevOps Engineer for **[Techno Ponies](https://za.linkedin.com/company/technoponies)**
+Hello! My name is Ruan Bekker, I currently work as a DevOps Engineer for **[Bloqtech Solutions](https://www.linkedin.com/company/bloqtech/)**, specializing in the blockchain industry.
 
 ## Me
 
