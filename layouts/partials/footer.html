@@ -16,15 +16,8 @@
         {{ if not .Site.Params.hideCopyright }} · {{ end }}
         {{ i18n "powered_by" }} <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
         <br>
-        <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-        <script>
-          kofiWidgetOverlay.draw('ruanbekker', {
-            'type': 'floating-chat',
-            'floating-chat.donateButton.text': '',
-            'floating-chat.donateButton.background-color': '#00b9fe',
-            'floating-chat.donateButton.text-color': '#fff'
-          });
-        </script>
+        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+        <script type='text/javascript'>kofiwidget2.init('Coffee?', '#29abe0', 'A6423ZIQ');kofiwidget2.draw();</script>
       {{ end }}
       {{ if .Site.Params.commit }}
         {{ if .GitInfo }}
