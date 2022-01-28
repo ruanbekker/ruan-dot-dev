@@ -23,12 +23,24 @@ I have a passion for problem solving, building things and making businesses succ
 | Imperial Online      | Desktop Support              | 2008 - 2009    |
 | Conexus              | Helpdesk Support             | 2007 - 2008    |
 
+### Bloqtech Solutions
+
+| <!-- -->    | <!-- -->                            |
+|-------------|------------------------------------ |
+| Position    | DevOps Engineer                     |
+| Duration    | May 2021 – Present                  |
+| Description | Design, Build and Scale our Platform on AWS. Our focus is on blockchain based services, so most services are built from the ground up. |
+
+**Job Role:**
+
+As a DevOps Engineer my focus is to enable developers to deploy their changes more frequently, safely and with confidence. Ensure that theres no blockers and ensure that our platform remains reliable as well as building infrastructure that can scale.
+
 ### Mama Money
 
 | <!-- -->    | <!-- -->                            |
 |-------------|------------------------------------ |
 | Position    | Platform Engineer (DevOps Engineer) |
-| Duration    | March 2020 – Present |
+| Duration    | March 2020 – April 2021             |
 | Description | Design, Build and Scale Mama Money’s Platform on AWS. Build dev tooling for developers and automation for our platform in order for features to be rolled out safer and faster. |
 
 **Job Role:**
