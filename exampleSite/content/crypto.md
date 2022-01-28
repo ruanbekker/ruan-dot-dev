@@ -14,7 +14,7 @@ The following youtube channels are my go-to for anything crypto related:
 
 * **[Guy from CoinBureau](https://www.youtube.com/c/CoinBureau)** provides great information about the crypto markets.
 
-* **[Max Maher](https://www.youtube.com/c/MaxMaher) produces content on how to make money in crypto and provides great information in the crypto space
+* **[Max Maher](https://www.youtube.com/c/MaxMaher)** produces content on how to make money in crypto and provides great information in the crypto space
 
 ## Cryptocurrency Investing
 
