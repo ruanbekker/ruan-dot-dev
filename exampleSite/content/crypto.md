@@ -4,6 +4,18 @@ slug = "crypto"
 featured_image = "https://ruan.dev/images/new-post-ruan-dev.png"
 +++
 
+## Cryptocurrency Youtube Content
+
+The following youtube channels are my go-to for anything crypto related:
+
+* **[Eddie Moon](https://www.youtube.com/c/eddiemooon)** produces content and information on investing, personal finance an entrepreneurship and definitely one of my go-to channels.
+
+* **[Gregory from Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)** teaches you to build decentralized apps on the ethereum blockchain, but he provides great insights into the crypto market, talks about trending topics and answers live qna.
+
+* **[Guy from CoinBureau](https://www.youtube.com/c/CoinBureau)** provides great information about the crypto markets.
+
+* **[Max Maher](https://www.youtube.com/c/MaxMaher) produces content on how to make money in crypto and provides great information in the crypto space
+
 ## Cryptocurrency Investing
 
 **[Revix](https://app.revix.com/register?promoCode=RB21BNPF6G)** makes cryptocurrency investing easy and effortless. **[Sign-up](https://app.revix.com/register?promoCode=RB21BNPF6G)**, open a free account, make an investment, and you'll get R200 deposited straight into your Revix account. (Note: It's a referral link)
