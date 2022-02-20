@@ -7,12 +7,16 @@ A couple of projects that I keep myself busy with
 
 ## Blogging
 
-I'm passionate about learning and distributing my knowledge:
+I'm passionate about learning and distributing my knowledge on my blogs:
 
-* [blog.ruanbekker.com](https://blog.ruanbekker.com)
-* [sysadmins.co.za](https://sysadmins.co.za)
-* [blog.pistack.co.za](https://blog.pistack.co.za)
-* [containers.fan](https://containers.fan)
+* [blog.ruanbekker.com](https://blog.ruanbekker.com?referral_source=ruan.dev)
+* [sysadmins.co.za](https://sysadmins.co.za?referral_source=ruan.dev)
+* [blog.pistack.co.za](https://blog.pistack.co.za?referral_source=ruan.dev)
+* [containers.fan](https://containers.fan?referral_source=ruan.dev)
+* [blockchainguides.net](https://blockchainguides.net?referral_source=ruan.dev)
+
+And on community blogs:
+
 * [dev.to](https://dev.to/ruanbekker)
 * [hashnode.dev](https://hashnode.com/@ruanbekker)
 * [medium.com/@ruanbekker](https://medium.com/@ruanbekker)
