@@ -27,17 +27,44 @@ And on community blogs:
 
 ## Projects
 
-* [k3m](https://github.com/ruanbekker/k3m): Run k3s distribution of kubernetes on multipass
-* [bekkerstacks](https://github.com/bekkerstacks): Ready to Deploy Docker Swarm Stacks
+### Cheatsheets
+
+A github repository with most of the commands, code-snippets that I stumbled upon and saved for reference:
+
+- [github.com/ruanbekker/cheatsheets](https://github.com/ruanbekker/cheatsheets)
+
+### Bekker Stacks
+
+Ready to Deploy Docker Swarm Stacks
+
+- [github.com/bekkerstacks](https://github.com/bekkerstacks)
+
+### K3M - Kubernetes on Multipass
+
+Run k3s distribution of kubernetes on multipass
+
+- [k3m](https://github.com/ruanbekker/k3m)
+
+### Elasticsearch Hands-On Tutorial
+
+Step-by-Step, in-depth Elasticsearch Workshop
+
+* [elasticsearch-hands-on-tutorial](https://github.com/ruanbekker/elasticsearch-demo)
+
+### Python Flask - My First Python App
+
+When I was busy learning Python, I wanted to create a web based application that can save bookmarks to MongoDB and Search via Elasticsearch:
+
+* [flask-reminders](https://github.com/ruanbekker/flask-reminders)
+
+### Other Projects
+
 * [bekkerlabs](https://github.com/ruanbekker/docker-vscode-server): Labs on VS Code Server
 * [pistacks](https://github.com/pistacks?tab=repositories): Ready to Deploy Docker Swarm Stacks for ARM
 * [golang-aws-secret-store](https://github.com/ruanbekker/golang-aws-secret-store): Secret Store on AWS with Golang, S3, KMS
-* [elasticsearch-hands-on-tutorial](https://github.com/ruanbekker/elasticsearch-demo): Hands-on Elasticsearch Tutorial
 * [elasticsearch-searchengine-php](https://gitlab.com/rbekker87/searchengine-php-es)
 * [kubernetes-hands-on-tutorial](https://github.com/ruanbekker/kubernetes-hands-on-demo): Hands-on Kubernetes Tutorial
 * [k3s-on-lxd](https://github.com/ruanbekker/k3s-on-lxd): Deploy a K3S Kubernetes Cluster on LXD
-* [flask-reminders](https://github.com/ruanbekker/flask-reminders): Bookmarks WebApp on Python Flask, Elasticsearch and MongoDB
-* [cheatsheets](https://github.com/ruanbekker/cheatsheets): My Cheatsheets Repository
 * [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace): Contributing to the Kubernetes Marketplace
 
 ## Community Support
