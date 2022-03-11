@@ -1,6 +1,7 @@
 +++
 title = "Contact"
 slug = "contact"
+layout = "contact"
 +++
 
 Follow me on **Twitter**:
