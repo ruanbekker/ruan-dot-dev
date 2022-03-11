@@ -12,9 +12,7 @@ Reach out to me on **Slack**:
 
 * [linux-hackers-slack](https://linux-hackers-slack.herokuapp.com)
 
-Reach out to me via **Email**:
-
-* [ruan@ruanbekker.com](mailto:ruan@ruanbekker.com)
+Reach out to me via **Email** using the form below:
 
 <form method="post" action="https://formspree.io/f/xvozzpjz">
   <div class="form-group row">
@@ -23,8 +21,8 @@ Reach out to me via **Email**:
       <div class="input-group">
         <div class="input-group-addon">
           <i class="fa fa-user"></i>
-        </div>
         <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control">
+      </div>
       </div>
     </div>
   </div>
