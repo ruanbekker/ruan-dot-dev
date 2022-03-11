@@ -16,11 +16,11 @@ Reach out to me via **Email** using the form below:
 
 <form method="post" action="https://formspree.io/f/xvozzpjz">
   <div class="form-group row">
-    <label for="name" class="col-4 col-form-label">Name</label>
+    <label for="name" class="col-4 col-form-label">Name:</label>
     <div class="col-8">
       <div class="input-group">
         <div class="input-group-addon">
-          <i class="fa fa-user"></i>
+          <i class="fa fa-user">&nbsp;</i>
         <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control">
       </div>
       </div>
@@ -30,13 +30,13 @@ Reach out to me via **Email** using the form below:
   <br>
 
   <div class="form-group row">
-    <label for="email" class="col-4 col-form-label">E-mail address</label>
+    <label for="email" class="col-4 col-form-label">E-mail address:</label>
     <div class="col-8">
       <div class="input-group">
         <div class="input-group-addon">
-          <i class="fa fa-envelope"></i>
-        </div>
+          <i class="fa fa-envelope">&nbsp;</i>
         <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" class="form-control">
+      </div>
       </div>
     </div>
   </div>
