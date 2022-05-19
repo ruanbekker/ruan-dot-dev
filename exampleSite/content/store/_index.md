@@ -3,14 +3,6 @@ title = "Store"
 slug = "store"
 +++
 
-## Welcome to my Store
-
-I have the following products available:
-
-* [SFTP Cheatsheet](sftp-cheatsheet)
-* [Elasticsearch Cheatsheet](elasticsearch-cheatsheet)
-
-
 <div id="myShop">
     <a href="https://ruanbekker.myspreadshop.net">ruanbekker</a>
 </div>
@@ -28,3 +20,9 @@ I have the following products available:
         src="https://ruanbekker.myspreadshop.net/shopfiles/shopclient/shopclient.nocache.js">
 </script>
 
+## Welcome to my Store
+
+I have the following products available:
+
+* [SFTP Cheatsheet](sftp-cheatsheet)
+* [Elasticsearch Cheatsheet](elasticsearch-cheatsheet)
