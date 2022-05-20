@@ -98,7 +98,7 @@ googleAnalytics = "UA-200848025-1"
     type = "application/rss+xml"
 [[params.social]]
     name = "Buy me a Coffee"
-    icon = "fab fa-coffee"
+    icon = "fa fa-coffee"
     weight = 7
     url = "https://www.buymeacoffee.com/ruanbekker"
 
