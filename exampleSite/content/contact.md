@@ -12,6 +12,10 @@ Reach out to me on **Slack**:
 
 * [linux-hackers-slack](https://linux-hackers-slack.herokuapp.com)
 
+Visit me on my **links page** for all my social accounts:
+
+* [contact.ruan.dev](https://contact.ruan.dev/)
+
 Reach out to me via **Email** using the form below:
 
 <form method="post" action="https://formspree.io/f/xvozzpjz">
