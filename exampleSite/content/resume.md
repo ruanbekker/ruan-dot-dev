@@ -9,25 +9,25 @@ I have a passion for problem solving, building things and making businesses succ
 
 ### Overview
 
-| Company              | Position                     | Year           |
-| -------------------- | ---------------------------- | -------------- |
-| Bloqtech Solutions   | DevOps Engineer              | 2021 - Current |
-| Mama Money           | Platform Engineer            | 2020 - 2021    |
-| JUMO                 | Systems Development Engineer | 2017 - 2020    |
-| Amazon Web Services  | Big Data, Cloud Support      | 2015 - 2017    |
-| Amazon Web Services  | EC2, Cloud Support           | 2014 - 2015    |
-| Computicket          | Linux Sysadmin               | 2014 - 2014    |
-| AOS                  | Linux / Network Admin        | 2013 - 2014    |
-| Imperial Online      | Snr. Linux Engineer          | 2011 – 2013    |
-| Imperial Online      | Linux Engineer               | 2009 - 2011    |
-| Imperial Online      | Desktop Support              | 2008 - 2009    |
-| Conexus              | Helpdesk Support             | 2007 - 2008    |
+| Company              | Position                     | Sector     | Year           |
+| -------------------- | ---------------------------- | -----------| -------------- |
+| Bloqtech Solutions   | DevOps Engineer              | Blockchain | 2021 - Current |
+| Mama Money           | Platform Engineer            | Fintech    | 2020 - 2021    |
+| JUMO                 | Systems Development Engineer | Fintech    | 2017 - 2020    |
+| Amazon Web Services  | Big Data, Cloud Support      | Cloud      | 2015 - 2017    |
+| Amazon Web Services  | EC2, Cloud Support           | Cloud      | 2014 - 2015    |
+| Computicket          | Linux Sysadmin               | eCommerce  | 2014 - 2014    |
+| AOS                  | Linux / Network Admin        | Fintech    | 2013 - 2014    |
+| Imperial Online      | Snr. Linux Engineer          | ISP        | 2011 – 2013    |
+| Imperial Online      | Linux Engineer               | ISP        | 2009 - 2011    |
+| Imperial Online      | Desktop Support              | ISP        | 2008 - 2009    |
+| Conexus              | Helpdesk Support             | Telecoms   | 2007 - 2008    |
 
 ### Bloqtech Solutions
 
 | <!-- -->    | <!-- -->                            |
 |-------------|------------------------------------ |
-| Position    | DevOps Engineer                     |
+| Position    | DevOps Engineer | Blockchain        |
 | Duration    | May 2021 – Present                  |
 | Description | Design, Build and Scale our Platform on AWS. Our focus is on blockchain based services, so most services are built from the ground up. |
 
