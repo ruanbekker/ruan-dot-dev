@@ -5,7 +5,7 @@ slug = "projects"
 
 A couple of projects that I keep myself busy with
 
-## Blogging
+## Technical Content Writing
 
 I'm passionate about learning and distributing my knowledge on my blogs:
 
@@ -26,6 +26,12 @@ And on community blogs:
 * [devdojo.com](https://devdojo.com/ruanbekker)
 
 ## Projects
+
+### Monitoring Made Easy
+
+Monitoring with Docker and Grafana should be as simple as possible and therefore, I have built a repository [docker-monitoring-stack-gpnc](https://github.com/ruanbekker/docker-monitoring-stack-gpnc) to do so:
+
+- [github.com/ruanbekker/docker-monitoring-stack-gpnc](https://github.com/ruanbekker/docker-monitoring-stack-gpnc)
 
 ### Cheatsheets
 
@@ -51,6 +57,12 @@ Step-by-Step, in-depth Elasticsearch Workshop
 
 * [elasticsearch-hands-on-tutorial](https://github.com/ruanbekker/elasticsearch-demo)
 
+### MongoDB Hands-On Tutorial with Python
+
+Step-by-Step, pymongo workshop with python:
+
+* [mongodb-with-python-tutorial](https://github.com/ruanbekker/mongodb-with-python-tutorial)
+
 ### Python Flask - My First Python App
 
 When I was busy learning Python, I wanted to create a web based application that can save bookmarks to MongoDB and Search via Elasticsearch:
@@ -66,6 +78,13 @@ When I was busy learning Python, I wanted to create a web based application that
 * [kubernetes-hands-on-tutorial](https://github.com/ruanbekker/kubernetes-hands-on-demo): Hands-on Kubernetes Tutorial
 * [k3s-on-lxd](https://github.com/ruanbekker/k3s-on-lxd): Deploy a K3S Kubernetes Cluster on LXD
 * [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace): Contributing to the Kubernetes Marketplace
+
+## Workshops
+
+A list of my workshops demonstrating hands-on usage of services:
+
+* [Working with MongoDB and Python using PyMongo](https://github.com/ruanbekker/mongodb-with-python-tutorial)
+* [Elasticsearch Walkthrough with Curl](https://github.com/ruanbekker/elasticsearch-demo)
 
 ## Community Support
 
