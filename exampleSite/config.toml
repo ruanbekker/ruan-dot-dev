@@ -142,8 +142,8 @@ googleAnalytics = "UA-200848025-1"
             name = "Shop"
             weight = 7
             # url = "https://ruan.dev/store"
-            # url = "https://ko-fi.com/ruanbekker/shop"
-            url = "https://ruanbekker.myspreadshop.net"
+            url = "https://ko-fi.com/ruanbekker/shop"
+            # url = "https://ruanbekker.myspreadshop.net"
 
             [[languages.en.menu.main]]
             name = "Contact"
