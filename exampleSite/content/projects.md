@@ -91,3 +91,4 @@ A list of my workshops demonstrating hands-on usage of services:
 I help out answering tech related questions on mediums such as AWS and DevOps user groups, but most of the time I have a dedicated slack channel where people can reach out to me:
 
 * [join-my-slack](https://linux-hackers-slack.herokuapp.com)
+
