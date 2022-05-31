@@ -1,5 +1,5 @@
 +++
-date = "2021-09-12"
+date = "2022-05-31"
 title = "Setup Linkding Bookmark Manager Service on Docker"
 slug = "setup-linkding-bookmark-manager-on-docker.md"
 tags = [
