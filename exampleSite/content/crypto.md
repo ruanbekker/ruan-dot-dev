@@ -4,6 +4,10 @@ slug = "crypto"
 featured_image = "https://ruan.dev/images/new-post-ruan-dev.png"
 +++
 
+## Cryptocurrency Bootcamps
+
+* **[Brie Kirbyson's Crypto Basics Bootcamp](https://www.briekirbyson.com/cbb/?source=ruan.dev)** teaches you how to get started investing in crypto, so you can confidently buy & sell, trade NFTs, and earn passive income with your crypto investments. Definitely check it out.
+
 ## Cryptocurrency Youtube Content
 
 The following youtube channels are my go-to for anything crypto related:
