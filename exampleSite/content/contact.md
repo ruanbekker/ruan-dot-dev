@@ -16,6 +16,10 @@ Visit me on my **links page** for all my social accounts:
 
 * [contact.ruan.dev](https://contact.ruan.dev/)
 
+Send me a "Thank You" note on [saythanks.io](https://saythanks.io/to/ruanbekker):
+
+- [saythanks](https://saythanks.io/to/ruanbekker)
+
 Reach out to me via **Email** using the form below:
 
 <form method="post" action="https://formspree.io/f/xvozzpjz">
