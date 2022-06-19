@@ -18,7 +18,7 @@ googleAnalytics = "UA-200848025-1"
 
 [params]
     author = "Ruan Bekker"
-    description = "Ruan Bekker's Portfolio Website"
+    description = "DevOps Engineer and passionate about anything that involves AWS, Containers, Kubernetes, Linux and teaching what I know."
     keywords = "blog,devops,personal"
     info = "DevOps Engineer and Open Source Enthusiast"
     #avatarurl = "images/avatar.jpg"
