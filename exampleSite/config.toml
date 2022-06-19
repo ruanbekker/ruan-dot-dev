@@ -101,6 +101,11 @@ googleAnalytics = "UA-200848025-1"
     icon = "fa fa-coffee"
     weight = 7
     url = "https://www.buymeacoffee.com/ruanbekker"
+[[params.social]]
+    name = "Patreon"
+    icon = "fab fa-patreon"
+    weight = 8
+    url = "https://www.patreon.com/ruanbekker"
 
 [languages]
     [languages.en]
