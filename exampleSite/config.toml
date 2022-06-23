@@ -80,31 +80,36 @@ googleAnalytics = "UA-200848025-1"
     weight = 3
     url = "https://twitter.com/ruanbekker/"
 [[params.social]]
+    name = "Discord"
+    icon = "fab fa-discord"
+    weight = 4
+    url = "https://discord.gg/bPmc4Stchd"
+[[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
-    weight = 4
+    weight = 5
     url = "https://www.linkedin.com/in/ruanbekker/"
 [[params.social]]
     name = "Email"
     icon = "fas fa-at"
-    weight = 5
+    weight = 6
     url = "mailto:contact@ruanbekker.com"
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss"
-    weight = 6
+    weight = 7
     url = "https://ruan.dev/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
 [[params.social]]
     name = "Buy me a Coffee"
     icon = "fa fa-coffee"
-    weight = 7
+    weight = 8
     url = "https://www.buymeacoffee.com/ruanbekker"
 [[params.social]]
     name = "Patreon"
     icon = "fab fa-patreon"
-    weight = 8
+    weight = 9
     url = "https://www.patreon.com/ruanbekker"
 
 [languages]
