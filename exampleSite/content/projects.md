@@ -92,3 +92,4 @@ I help out answering tech related questions on mediums such as AWS and DevOps us
 
 * [join-my-slack](https://linux-hackers-slack.herokuapp.com)
 
+
