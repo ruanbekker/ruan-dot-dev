@@ -40,6 +40,8 @@ If we head over to Luno's legal section of their website and browse to their [Av
 
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/567298/132592360-e9ea2956-8f9a-423a-9aff-0e454dff6103.png">
 
+<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CEAIP2JL&placement=ruandev" id="_carbonads_js"></script>
+
 ## Red Flags on the SMS
 
 So let's review this SMS message and try and point out the red flags:
