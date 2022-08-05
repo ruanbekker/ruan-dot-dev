@@ -40,7 +40,91 @@ If we head over to Luno's legal section of their website and browse to their [Av
 
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/567298/132592360-e9ea2956-8f9a-423a-9aff-0e454dff6103.png">
 
-<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CEAIP2JL&placement=ruandev" id="_carbonads_js"></script>
+<style>
+#carbonads {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial,
+  sans-serif;
+}
+
+#carbonads {
+  display: block;
+  overflow: hidden;
+  max-width: 728px;
+  position: relative;
+  background-color: hsl(0, 0%, 99%);
+  border: solid 1px #eee;
+  font-size: 22px;
+  box-sizing: content-box;
+}
+
+#carbonads > span {
+  display: block;
+}
+
+#carbonads a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#carbonads a:hover {
+  color: inherit;
+}
+
+.carbon-wrap {
+  display: flex;
+  align-items: center;
+}
+
+.carbon-img {
+  display: block;
+  margin: 0;
+  line-height: 1;
+}
+
+.carbon-img img {
+  display: block;
+  height: 100px;
+  width: auto;
+}
+
+.carbon-text {
+  display: block;
+  padding: 0 1em;
+  line-height: 1.35;
+  text-align: left;
+}
+
+.carbon-poweredby {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 6px 10px;
+  background: repeating-linear-gradient(
+                  -45deg,
+                  transparent,
+                  transparent 5px,
+                  hsla(0, 0%, 0%, 0.025) 5px,
+                  hsla(0, 0%, 0%, 0.025) 10px
+  )
+  hsla(203, 11%, 95%, 0.8);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+  font-size: 8px;
+  border-top-left-radius: 4px;
+  line-height: 1;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 759px) {
+  .carbon-text {
+    font-size: 14px;
+  }
+}
+</style>
+<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CEAIP2JI&placement=sysadminscoza" id="_carbonads_js"></script>
 
 ## Red Flags on the SMS
 
