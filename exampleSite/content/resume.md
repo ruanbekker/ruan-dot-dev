@@ -11,7 +11,8 @@ I have a passion for problem solving, building things and making businesses succ
 
 | Company              | Position                     | Sector     | Year           |
 | -------------------- | ---------------------------- | -----------| -------------- |
-| Bloqtech Solutions   | DevOps Engineer              | Blockchain | 2021 - Current |
+| BVNK                 | Senior DevOps Engineer       | Fintech    | 2022 - current |
+| Bloqtech Solutions   | DevOps Engineer              | Fintech    | 2021 - 2022    |
 | Mama Money           | Platform Engineer            | Fintech    | 2020 - 2021    |
 | JUMO                 | Systems Development Engineer | Fintech    | 2017 - 2020    |
 | Amazon Web Services  | Big Data, Cloud Support      | Cloud      | 2015 - 2017    |
