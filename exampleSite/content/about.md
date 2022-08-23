@@ -3,7 +3,7 @@ title = "About Me"
 slug = "about"
 +++
 
-Hello! My name is Ruan Bekker, I currently work as a DevOps Engineer for **[Bloqtech Solutions](https://www.linkedin.com/company/bloqtech/)**, specializing in the blockchain industry.
+Hello! My name is Ruan Bekker, I currently work as a Senior DevOps Engineer for **[BVNK](https://bvnk.com/)**, specializing in the blockchain industry.
 
 ## Me
 
@@ -11,7 +11,7 @@ I have a passion for problem solving, building things and making businesses succ
 
 ## My Background
 
-I have about 12 years of experience in the IT/Engineering Industry that ranges from Linux Systems Administration, DevOps, BigData and Systems Development Engineering, mostly in the FinTech industry.
+I have about 14 years of experience in the IT/Engineering Industry that ranges from Linux Systems Administration, DevOps, BigData and Systems Development Engineering, mostly in the FinTech industry.
 
 ## Stuff I Work On
 
