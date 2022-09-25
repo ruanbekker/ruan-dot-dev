@@ -113,7 +113,7 @@ googleAnalytics = "UA-200848025-1"
     url = "https://www.patreon.com/ruanbekker"
 [[params.social]]
     name = "Linktree"
-    icon = "fa-solid fa-link"
+    icon = "fab fa-link"
     weight = 10
     url = "https://linktr.ee/ruanbekker"
 
