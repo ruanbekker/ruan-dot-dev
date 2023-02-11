@@ -1,6 +1,6 @@
 [build]
 publish = "demo/public"
-command = "./stackbit-build.sh"
+command = "hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.54.0"
