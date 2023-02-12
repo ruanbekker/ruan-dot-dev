@@ -1,7 +1,6 @@
 [build]
-publish = "demo/public"
-base = "exampleSite/"
-command = "hugo --gc --minify"
+publish = "exampleSite/public"
+command = "cd exampleSite && hugo --themesDir=../.. --baseURL /"
 
 [context.production.environment]
 HUGO_VERSION = "0.54.0"
