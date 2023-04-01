@@ -14,7 +14,7 @@ series = ["ext-blog-posts"]
 featured_image = "https://ruan.dev/images/new-post-ruan-dev.png"
 +++
 
-A blog post has been published on [containers.fan](https://containers.fan/posts/authelia-single-sign-on-docker-traefik/)
+A blog post has been published on [ruanbekker.hashnode.dev](https://ruanbekker.hashnode.dev/sso-with-authelia-using-traefik-on-docker)
 
 ## Single Sign-On using Authelia
 
@@ -22,7 +22,7 @@ This post will demonstrate how to setup and implement single sign-on using Authe
 
 To read more on the post, view it here:
 
-- https://containers.fan/posts/authelia-single-sign-on-docker-traefik/
+- https://ruanbekker.hashnode.dev/sso-with-authelia-using-traefik-on-docker
 
 ## Thank You
 
