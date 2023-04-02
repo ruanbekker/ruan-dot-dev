@@ -54,6 +54,12 @@ I primarily work with the following:
 
 You will find me on [twitter](https://twitter.com/ruanbekker), sharing most of my blogposts that I write about tech topics on [blog.ruanbekker.com](https://blog.ruanbekker.com), [sysadmins.co.za](https://sysadmins.co.za) and for raspberry pi based projects on [blog.pistack.co.za](https://blog.pistack.co.za) and I share most of my code on my [githhub repository](https://github.com/ruanbekker).
 
+## Newsletter
+
+Join my newsletter:
+
+<iframe src="https://ruanbekker.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 ## Thanks
 
 I always love feedback and hearing from the community, so if you want to chat, need some help on your projects, feel free to reach out to me on [twitter](https://twitter.com/ruanbekker) or [slack](http://linux-hackers-slack.herokuapp.com)
