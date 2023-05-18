@@ -25,6 +25,12 @@ And on community blogs:
 * [codewall.co.uk](https://www.codewall.co.uk/author/ruanbekker/)
 * [devdojo.com](https://devdojo.com/ruanbekker)
 
+## Challenges
+
+### 100DaysOfCodeSnippets
+
+I love writing small code snippets with the intention that it could help someone out there, I've commited to [100DaysOfCodeSnippets](https://twitter.com/search?f=top&q=(%23100DaysOfCodeSnippets)%20(from%3Aruanbekker)&src=typed_query)
+
 ## Projects
 
 ### Monitoring Made Easy
