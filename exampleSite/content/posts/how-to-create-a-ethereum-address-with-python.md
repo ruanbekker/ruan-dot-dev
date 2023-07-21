@@ -2,6 +2,7 @@
 date = "2023-07-06"
 title = "How to create a Ethereum Address with Python"
 slug = "how-to-create-a-ethereum-address-with-python"
+canonicalUrl = "https://ruanbekker.hashnode.dev/how-to-create-a-ethereum-address-with-python"
 tags = [
     "ethereum",
     "python",
