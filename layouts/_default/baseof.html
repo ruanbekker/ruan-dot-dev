@@ -17,7 +17,9 @@
     {{ end }}
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
-    {{ if .Permalink }}
+    {{ if .Params.canonicalUrl }}
+      <link rel="canonical" href="{{ .Params.canonicalUrl }}">
+    {{ else }}
       <link rel="canonical" href="{{ .Permalink }}">
     {{ end }}
 
